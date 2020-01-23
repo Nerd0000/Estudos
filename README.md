@@ -35,4 +35,27 @@ para uma navegação mais fácil.
 <br>
 
 ## :books: Aprendendo
-. . .
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/reactjs.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Calculadora-ReactJs"> Calculadora</a>
+<br> <br>
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/reactjs.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Aprendendo-ReactJs"> 1º projeto</a>
+<br> <br>
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
+<img src="https://github.com/Nerd0000/Estudos/blob/master/config/netbeans.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Java-desktop"> Aplicação desktop</a>
+<br> <br>
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
+<img src="https://github.com/Nerd0000/Estudos/blob/master/config/spring.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Java-desktop"> Banco de dados H2</a>
+<br> <br>
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/web.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Aprendendo-frontend"> Aprendendo frontend</a>
+<br> <br>
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
+<img src="https://github.com/Nerd0000/Estudos/blob/master/config/spring.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Ferramenta-ORM"> Ferramenta ORM</a>
+<br> <br>
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
+<img src="https://github.com/Nerd0000/Estudos/blob/master/config/spring.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Aprendendo-Java-e-Spring"> Aprendendo java e spring</a>
