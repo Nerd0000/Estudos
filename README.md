@@ -10,7 +10,7 @@ para uma navegação mais fácil.
 <a href="https://github.com/Nerd0000/Desenvolvimento-de-jogos"> Desenvolvimento de jogos</a>
 <br> <br>
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/arduino.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Arduino"> Arduino</a>
+<a href="https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default"> Arduino</a>
 <br> <br>
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/html5.png" height="25" width="25"></img>
 <img src="https://github.com/Nerd0000/Estudos/blob/master/config/javascript.png" height="25" width="25"></img>
