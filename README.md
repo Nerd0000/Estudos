@@ -9,10 +9,6 @@ para uma navegação mais fácil.
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/arduino.png" height="25" width="25"></img>
 <a href="https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default"> Arduino</a>
 <br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/html5.png" height="25" width="25"></img>
-<img src="https://github.com/Nerd0000/Estudos/blob/master/config/javascript.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Mudar-layout-HTML"> Alterar conteúdo de página web</a>
-<br> <br>
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/portugol.png" height="25" width="25"></img>
 <a href="https://github.com/Nerd0000/Logica-com-Portugol"> Lógica de programação</a>
 <br> <br>
@@ -38,6 +34,9 @@ Bots para discord:
 <br> <br>
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
 <a href="https://github.com/Nerd0000/Estudos-em-Java"> Java</a>
+<br> <br>
+- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/web.png" height="25" width="25"></img>
+<a href="https://github.com/Nerd0000/Web"> Web</a>
 <br> <br>
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/ajax.png" height="25" width="25"></img>
 <a href="https://github.com/Nerd0000/Ajax"> Ajax</a>
@@ -65,6 +64,3 @@ Bots para discord:
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
 <img src="https://github.com/Nerd0000/Estudos/blob/master/config/spring.png" height="25" width="25"></img>
 <a href="https://github.com/Nerd0000/Aprendendo-Java-e-Spring"> Aprendendo java e spring</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/web.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Aprendendo-frontend"> Aprendendo frontend</a>
