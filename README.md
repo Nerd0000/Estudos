@@ -17,9 +17,7 @@ para uma navegação mais fácil.
 <br> <br>
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/discord.png" height="25" width="25"></img>
 <img src="https://github.com/Nerd0000/Estudos/blob/master/config/javascript.png" height="25" width="25"></img>
-Bots para discord:
-<a href="https://github.com/Nerd0000/Player-discord-bot"> Player, </a>
-<a href="https://github.com/Nerd0000/Schr-dingerBOT"> SchrödingerBOT </a>
+<a href="https://github.com/Nerd0000/Player-discord-bot"> Player</a>
 <br>
 
 ## :scroll: Estudos
