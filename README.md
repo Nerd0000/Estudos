@@ -17,24 +17,12 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
   - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## :scroll: Estudos
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/c.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Estudos-em-C"> Estudos em C</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/python.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Aprendendo-python"> Python</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/javascript.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Estudos-em-Javascript"> Javascript</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Estudos-em-Java"> Java</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/web.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Web"> Web</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/ajax.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Ajax"> Ajax</a>
-<br>
+- [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
+- [🐍 Python](https://github.com/Nerd0000/Aprendendo-python)
+- [💡 Javascript](https://github.com/Nerd0000/Estudos-em-Javascript)
+- [☕ Java](https://github.com/Nerd0000/Estudos-em-Java)
+- [🌐 Web](https://github.com/Nerd0000/Web)
+- [🌐 Ajax](https://github.com/Nerd0000/Ajax)
 
 ## :books: Aprendendo
 - [💡 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
