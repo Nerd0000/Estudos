@@ -1,6 +1,5 @@
 # :book: Sobre
-Estudos e projetos próprios organizados por categoria, <br>
-para uma navegação mais fácil.
+Estudos e projetos próprios organizados por categoria, para uma navegação mais fácil.
 ## :label: Projetos
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/reactjs.png" height="25" width="25"></img>
 <img src="https://github.com/Nerd0000/Estudos/blob/master/config/nodejs.png" height="25" width="25"></img>
@@ -19,6 +18,14 @@ para uma navegação mais fácil.
 <img src="https://github.com/Nerd0000/Estudos/blob/master/config/javascript.png" height="25" width="25"></img>
 <a href="https://github.com/Nerd0000/Player-discord-bot"> Player</a>
 <br>
+
+<b>👥 Sistemas de cadastro</b> <br>
+- Sistemas de cadastro desenvolvidos usando diversas tecnologias <br> <br>
+  - [💡☕ AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
+  - [💡☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
+  - [💡 ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
+  - [💡 ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
+  - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## :scroll: Estudos
 - <img src="https://github.com/Nerd0000/Estudos/blob/master/config/c.png" height="25" width="25"></img>
