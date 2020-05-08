@@ -1,23 +1,12 @@
 # :book: Sobre
 Estudos e projetos próprios organizados por categoria, para uma navegação mais fácil.
+
 ## :label: Projetos
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/reactjs.png" height="25" width="25"></img>
-<img src="https://github.com/Nerd0000/Estudos/blob/master/config/nodejs.png" height="25" width="25"></img>
-<a href="https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd"> Brasil Development </a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/arduino.png" height="25" width="25"></img>
-<a href="https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default"> Arduino</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/portugol.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Logica-com-Portugol"> Lógica de programação</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/web.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Desenvolvimento-de-jogos"> Desenvolvimento de jogos</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/discord.png" height="25" width="25"></img>
-<img src="https://github.com/Nerd0000/Estudos/blob/master/config/javascript.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Player-discord-bot"> Player</a>
-<br>
+- [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
+- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
+- [🌐💡 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
 
 <b>👥 Sistemas de cadastro</b> <br>
 - Sistemas de cadastro desenvolvidos usando diversas tecnologias <br> <br>
@@ -48,24 +37,9 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
 <br>
 
 ## :books: Aprendendo
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/reactjs.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Calculadora-ReactJs"> Calculadora</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/reactjs.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Aprendendo-ReactJs"> Aprendendo ReactJs</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
-<img src="https://github.com/Nerd0000/Estudos/blob/master/config/netbeans.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Java-desktop"> Aplicação desktop</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
-<img src="https://github.com/Nerd0000/Estudos/blob/master/config/spring.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Java-desktop"> Banco de dados H2</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
-<img src="https://github.com/Nerd0000/Estudos/blob/master/config/spring.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Ferramenta-ORM"> Ferramenta ORM</a>
-<br> <br>
-- <img src="https://github.com/Nerd0000/Estudos/blob/master/config/java.png" height="25" width="25"></img>
-<img src="https://github.com/Nerd0000/Estudos/blob/master/config/spring.png" height="25" width="25"></img>
-<a href="https://github.com/Nerd0000/Aprendendo-Java-e-Spring"> Aprendendo java e spring</a>
+- [💡 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
+- [💡 Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
+- [☕ Aplicação desktop](https://github.com/Nerd0000/Java-desktop)
+- [☕ Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
+- [☕ Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
+- [☕ Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
