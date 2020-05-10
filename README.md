@@ -19,6 +19,7 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
 ## :scroll: Estudos
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 - [🐍 Exercícios em Python](https://github.com/Nerd0000/Aprendendo-python)
+- [🌐 Ajax e Jquery](https://github.com/Nerd0000/Ajax-e-Jquery)
 - [🌐 Ajax](https://github.com/Nerd0000/Ajax)
 - [🌐 Web](https://github.com/Nerd0000/Web)
 - [💡 Exercícios em Javascript](https://github.com/Nerd0000/Estudos-em-Javascript)
