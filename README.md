@@ -23,7 +23,7 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
 - [Web](https://github.com/Nerd0000/Web)
 - [Exercícios em Javascript](https://github.com/Nerd0000/Estudos-em-Javascript)
 - [Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
-- [Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
+- [Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs) 
 
 ## ☕ Estudos em Java
 - [Exercícios em Java](https://github.com/Nerd0000/Estudos-em-Java)
