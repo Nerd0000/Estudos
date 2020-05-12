@@ -14,7 +14,7 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
 - [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
 - [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
-- [🌐💡 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [🌐 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 
 ## 💡 Estudos em Javascript
 - [Ajax e Jquery](https://github.com/Nerd0000/Ajax-e-Jquery)
