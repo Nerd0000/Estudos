@@ -16,18 +16,22 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
 - [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
 - [🌐💡 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 
-## :scroll: Estudos
+## 💡 Estudos em Javascript
+- [Ajax e Jquery](https://github.com/Nerd0000/Ajax-e-Jquery)
+  - [Consulta de cep](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
+- [Ajax](https://github.com/Nerd0000/Ajax)
+- [Web](https://github.com/Nerd0000/Web)
+- [Exercícios em Javascript](https://github.com/Nerd0000/Estudos-em-Javascript)
+- [Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
+- [Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
+
+## ☕ Estudos em Java
+- [Exercícios em Java](https://github.com/Nerd0000/Estudos-em-Java)
+- [Aplicação desktop](https://github.com/Nerd0000/Java-desktop)
+- [Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
+- [Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
+- [Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
+
+## :scroll: Outros estudos
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 - [🐍 Exercícios em Python](https://github.com/Nerd0000/Aprendendo-python)
-- [🌐💡 Ajax e Jquery](https://github.com/Nerd0000/Ajax-e-Jquery)
-  - [🌐💡 Consulta de cep](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
-- [🌐💡 Ajax](https://github.com/Nerd0000/Ajax)
-- [🌐💡 Web](https://github.com/Nerd0000/Web)
-- [💡 Exercícios em Javascript](https://github.com/Nerd0000/Estudos-em-Javascript)
-- [💡 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
-- [💡 Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
-- [☕ Exercícios em Java](https://github.com/Nerd0000/Estudos-em-Java)
-- [☕ Aplicação desktop](https://github.com/Nerd0000/Java-desktop)
-- [☕ Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
-- [☕ Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
-- [☕ Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
