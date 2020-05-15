@@ -10,11 +10,12 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
   - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## :label: Projetos
-- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+- [💡 Be the hero - Oministack 11](https://github.com/Nerd0000/Be-the-hero)
 - [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
 - [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
 - [🌐 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
 
 ## 💡 Estudos em Javascript
 - [Ajax e Jquery](https://github.com/Nerd0000/Ajax-e-Jquery)
