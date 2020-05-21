@@ -7,6 +7,7 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
   - [💡☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
   - [💡 ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
   - [💡 ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
+  - [💡 VueJs simples](https://github.com/Nerd0000/Cadastro-em-Vue)
   - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## :label: Projetos
