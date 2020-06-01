@@ -11,6 +11,7 @@ Estudos e projetos próprios organizados por categoria, para uma navegação mai
   - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## :label: Projetos
+- [💡 Ecoleta - Next Level Week](https://github.com/Nerd0000/Ecoleta)
 - [💡 Be the hero - Oministack 11](https://github.com/Nerd0000/Be-the-hero)
 - [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
 - [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
