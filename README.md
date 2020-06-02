@@ -37,4 +37,4 @@ Meus repositórios do github organizados por categoria, para uma navegação mai
 
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 
-- [🐍 Exercícios em Python](https://github.com/Nerd0000/Aprendendo-python)
+- [🐍 Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
