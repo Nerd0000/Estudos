@@ -6,8 +6,8 @@ Meus repositórios do github organizados por categoria, para uma navegação mai
 - [💡 Be the hero - Oministack 11](https://github.com/Nerd0000/Be-the-hero)
 - [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
 - [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
-- [🌐 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+- [🌐 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
 
 ## 👥 Sistemas de cadastro
