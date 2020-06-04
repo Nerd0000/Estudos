@@ -1,5 +1,26 @@
-# 📖 Sobre
-Meus repositórios do github organizados por categoria, para uma navegação mais fácil.
+<h1 align="center">
+    < 📖 > <br>
+    Meus Projetos
+</h1>
+  
+<h4 align="center">
+  Meus repositórios do github organizados por categoria, para uma navegação mais fácil.
+</h4>
+
+<p align="center"> 
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
+
+  <a href="https://github.com/Nerd0000/Meus-Projetos/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Meus-Projetos.svg">
+  </a>
+
+  <a href="https://github.com/Nerd0000/Meus-Projetos/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Meus-Projetos.svg">
+  </a>
+
+</p>
+
 
 ## 🏷️ Projetos
 - [💡 Ecoleta - Next Level Week](https://github.com/Nerd0000/Ecoleta)
@@ -15,7 +36,7 @@ Meus repositórios do github organizados por categoria, para uma navegação mai
 - [💡☕ VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
 - [💡☕ AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
 - [💡 ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
-- [💡 ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
+- [💡 ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)a
 - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## 📚 Estudos
