@@ -60,3 +60,5 @@
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 
 - [🐍 Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
+
+- [🛡️ Estudos em Angular](https://github.com/Nerd0000/Estudando-angular)
