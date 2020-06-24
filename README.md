@@ -63,3 +63,5 @@
 - [🐍 Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
 
 - [🛡️ Estudos em Angular](https://github.com/Nerd0000/Estudando-angular)
+
+- [🔮 Estudos em .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
