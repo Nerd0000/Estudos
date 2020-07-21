@@ -42,11 +42,11 @@
 
 ## 📚 Estudos
 - 💡 Estudos em Javascript
-  - [Ajax e Jquery](https://github.com/Nerd0000/Ajax-e-Jquery)
-    - [Consulta de cep](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
+  - [Consulta de cep(Ajax e Jquery)](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
   - [Ajax](https://github.com/Nerd0000/Ajax)
   - [Web](https://github.com/Nerd0000/Web)
-  - [Exercícios em Javascript](https://github.com/Nerd0000/Estudos-em-Javascript)
+  - [Exercícios](https://github.com/Nerd0000/Estudos-em-Javascript)
+  
   - [Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
   - [Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs) 
   
@@ -59,7 +59,9 @@
 
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 
-- [🐍 Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
+- 🐍 Estudos em Python
+    - [Web scraping](https://github.com/Nerd0000/webscrap-com-python)
+    - [Exercicios](https://github.com/Nerd0000/Aprendendo-python)
 
 - [🛡️ Estudos em Angular](https://github.com/Nerd0000/Estudando-angular)
 
