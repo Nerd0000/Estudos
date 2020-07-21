@@ -46,7 +46,6 @@
   - [Ajax](https://github.com/Nerd0000/Ajax)
   - [Web](https://github.com/Nerd0000/Web)
   - [Exercícios](https://github.com/Nerd0000/Estudos-em-Javascript)
-  
   - [Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
   - [Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs) 
   
