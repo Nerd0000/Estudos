@@ -63,6 +63,7 @@
   - [Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
 
 - 🛡️ Estudos em Angular
+    - [Listagem de filmes](https://github.com/Nerd0000/Listagem-filmes)
     - [Listagem de cursos](https://github.com/Nerd0000/Listagem-cursos)
 
 - [🔮 Estudos em .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
