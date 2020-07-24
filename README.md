@@ -32,12 +32,12 @@
 - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
 
 ## 👥 Sistemas de cadastro
-- [💡 ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
-- [💡 ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
-- [💡☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
-- [💡☕ Angular e Java simples](https://github.com/Nerd0000/Angular-e-Java)
-- [💡☕ AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
-- [💡☕ VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
+- [☄️ ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
+- [☄️ ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
+- [☄️☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
+- [🛡️☕ Angular e Java simples](https://github.com/Nerd0000/Angular-e-Java)
+- [🛡️☕ AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
+- [🥬☕ VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
 - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## 📚 Estudos
@@ -62,8 +62,6 @@
   - [Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
   - [Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
 
-- 🛡️ Estudos em Angular
-    - [Listagem de filmes](https://github.com/Nerd0000/Listagem-filmes)
-    - [Listagem de cursos](https://github.com/Nerd0000/Listagem-cursos)
+- [🛡️ Estudos em Angular](https://github.com/Nerd0000/Listagem-cursos)
 
 - [🔮 Estudos em .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
