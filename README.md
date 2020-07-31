@@ -42,7 +42,8 @@
 
 ## 📚 Estudos
 - 💡 Estudos em Javascript
-  - [Consulta de cep(Ajax e Jquery)](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
+  - [Go Stack](https://github.com/Nerd0000/go-stack)
+  - [Consulta de cep (Ajax e Jquery)](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
   - [Ajax](https://github.com/Nerd0000/Ajax)
   - [Web](https://github.com/Nerd0000/Web)
   - [Exercícios](https://github.com/Nerd0000/Estudos-em-Javascript)
