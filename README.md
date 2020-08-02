@@ -28,7 +28,7 @@
 - [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
 - [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-- [🌐 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
 
 ## 👥 Sistemas de cadastro
@@ -53,6 +53,7 @@
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 
 - 🐍 Estudos em Python
+    - [Web com Django](https://github.com/Nerd0000/Web-com-Django)
     - [Web scraping](https://github.com/Nerd0000/webscrap-com-python)
     - [Exercicios](https://github.com/Nerd0000/Aprendendo-python)
 
