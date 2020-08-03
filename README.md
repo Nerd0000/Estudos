@@ -38,7 +38,7 @@
 - [☄️☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
 - [🛡️☕ Angular e Java simples](https://github.com/Nerd0000/Angular-e-Java)
 - [🛡️☕ AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
-- [🥬☕ VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
+- [🐲☕ VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
 - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
 ## 📚 Estudos
