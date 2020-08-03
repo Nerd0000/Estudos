@@ -23,6 +23,7 @@
 
 
 ## 🏷️ Projetos
+- [💡 Proffy - NLW #2](https://github.com/Nerd0000/Proffy)
 - [💡 Ecoleta - Next Level Week](https://github.com/Nerd0000/Ecoleta)
 - [💡 Be the hero - Oministack 11](https://github.com/Nerd0000/Be-the-hero)
 - [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
