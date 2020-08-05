@@ -21,17 +21,6 @@
 
 </p>
 
-
-## 🏷️ Projetos
-- [💡 Proffy - NLW #2](https://github.com/Nerd0000/Proffy)
-- [💡 Ecoleta - Next Level Week](https://github.com/Nerd0000/Ecoleta)
-- [💡 Be the hero - Oministack 11](https://github.com/Nerd0000/Be-the-hero)
-- [💡 Brasil Development](https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd) 
-- [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-- [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
-
 ## 👥 Sistemas de cadastro
 - [☄️ ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
 - [☄️ ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
@@ -40,6 +29,15 @@
 - [🛡️☕ AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
 - [🐲☕ VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
 - [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
+
+## 🏷️ Projetos
+- [💡 Proffy - NLW #2](https://github.com/Nerd0000/Proffy)
+- [💡 Ecoleta - NLW #1](https://github.com/Nerd0000/Ecoleta)
+- [💡 Be the hero - Oministack #11](https://github.com/Nerd0000/Be-the-hero)
+- [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
+- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+- [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
 
 ## 📚 Estudos
 - 💡 Estudos em Javascript
