@@ -40,29 +40,9 @@
 - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
 
 ## 📚 Estudos
-- 💡 Estudos em Javascript
-  - [Go Stack](https://github.com/Nerd0000/go-stack)
-  - [Consulta de cep (Ajax e Jquery)](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
-  - [Ajax](https://github.com/Nerd0000/Ajax)
-  - [Web](https://github.com/Nerd0000/Web)
-  - [Exercícios](https://github.com/Nerd0000/Estudos-em-Javascript)
-  - [Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
-  - [Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs) 
-
+- [💡 Estudos em Javascript](./src/js.md)
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
-
-- 🐍 Estudos em Python
-    - [Web com Django](https://github.com/Nerd0000/Web-com-Django)
-    - [Web scraping](https://github.com/Nerd0000/webscrap-com-python)
-    - [Exercicios](https://github.com/Nerd0000/Aprendendo-python)
-
-- ☕ Estudos em Java
-  - [Exercícios em Java](https://github.com/Nerd0000/Estudos-em-Java)
-  - [Aplicação desktop](https://github.com/Nerd0000/Java-desktop)
-  - [Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
-  - [Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
-  - [Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
-
+- [🐍 Estudos em Python](./src/py.md)
+- [☕ Estudos em Java](./src/java.md)
 - [🛡️ Estudos em Angular](https://github.com/Nerd0000/Listagem-cursos)
-
 - [🔮 Estudos em .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)

@@ -1,0 +1,3 @@
+- [Web com Django](https://github.com/Nerd0000/Web-com-Django)
+- [Web scraping](https://github.com/Nerd0000/webscrap-com-python)
+- [Exercicios](https://github.com/Nerd0000/Aprendendo-python)
