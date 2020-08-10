@@ -21,28 +21,22 @@
 
 </p>
 
-## 👥 Sistemas de cadastro
-- [☄️ ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
-- [☄️ ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
-- [☄️☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
-- [🛡️☕ Angular e Java simples](https://github.com/Nerd0000/Angular-e-Java)
-- [🛡️☕ AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
-- [🐲☕ VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
-- [☕ Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
+## 🚀 Rocketseat
+- [Starter](https://github.com/Nerd0000/Estudos-em-Javascript)
+- [Oministack](./src/omni.md)
+- [Gostack](https://github.com/Nerd0000/go-stack)
 
-## 🏷️ Projetos
-- [💡 Proffy - NLW #2](https://github.com/Nerd0000/Proffy)
-- [💡 Ecoleta - NLW #1](https://github.com/Nerd0000/Ecoleta)
-- [💡 Be the hero - Oministack #11](https://github.com/Nerd0000/Be-the-hero)
-- [💡 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-- [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
-
-## 📚 Estudos
+## 📚 Outros
+- [👥 Sistemas de cadastro](./src/crud.md)
+- - -
 - [💡 Estudos em Javascript](./src/js.md)
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 - [🐍 Estudos em Python](./src/py.md)
 - [☕ Estudos em Java](./src/java.md)
 - [🛡️ Estudos em Angular](https://github.com/Nerd0000/Listagem-cursos)
 - [🔮 Estudos em .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
+- - -
+- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+- [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [🔵 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
+- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
