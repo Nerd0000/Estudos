@@ -22,7 +22,7 @@
 </p>
 
 ## 🚀 Rocketseat
-- [👨‍🎓 Starter](https://github.com/Nerd0000/Estudos-em-Javascript)
+- [👨‍🎓 Starter](https://github.com/Nerd0000/Starter)
 - [💡 Oministack](./src/omni.md)
 - [🚀 Gostack](https://github.com/Nerd0000/go-stack)
 
