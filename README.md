@@ -22,21 +22,21 @@
 </p>
 
 ## 🚀 Rocketseat
-- [👨‍🎓 Starter](https://github.com/Nerd0000/Starter)
-- [💡 Oministack](./src/omni.md)
-- [🚀 Gostack](https://github.com/Nerd0000/go-stack)
+
+- [🎒 Starter](https://github.com/Nerd0000/Starter)
+- [🚀 Oministack](./src/omni.md)
+- [👨‍🎓 Gostack](https://github.com/Nerd0000/go-stack)
 
 ## 📚 Outros
-- [👥 Sistemas de cadastro](./src/crud.md)
-- - -
+
+- [🌐 Sistemas Web](./src/crud.md)
+- [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [🐀 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
 - [💡 Estudos em Javascript](./src/js.md)
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
+- [🔩 Estudos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
 - [🐍 Estudos em Python](./src/py.md)
 - [☕ Estudos em Java](./src/java.md)
+- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
 - [🛡️ Estudos em Angular](https://github.com/Nerd0000/Listagem-cursos)
 - [🔮 Estudos em .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
-- - -
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-- [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-- [🔵 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
-- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
