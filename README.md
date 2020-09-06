@@ -34,6 +34,7 @@
 - [🌐 Sistemas Web](./src/crud.md)
 - [🎮 Desenvolvimento de jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 - [🐀 Player_BOT](https://github.com/Nerd0000/Player-discord-bot)
+- [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
 - [💡 Estudos em Javascript](./src/js.md)
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 - [🔩 Estudos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
