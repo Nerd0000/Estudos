@@ -1,5 +1,5 @@
 - [💱 E-Commerce](https://github.com/Nerd0000/E-Commerce)
-- [🔎 Consulta de cep (Ajax e Jquery)](https://github.com/Nerd0000/Ajax-e-Jquery/tree/master/Consulta%20de%20cep)
+- [🔎 Consulta de cep (Ajax e Jquery)](https://github.com/Nerd0000/Consulta-de-Cep)
 - [🔢 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
 - [😎 ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
 - [☺ ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
