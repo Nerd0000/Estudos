@@ -1,3 +1,1 @@
-- [🎓 Proffy - NLW #2](https://github.com/Nerd0000/Proffy)
-- [♻️ Ecoleta - NLW #1](https://github.com/Nerd0000/Ecoleta)
 - [💜 Be the hero - Oministack #11](https://github.com/Nerd0000/Be-the-hero)
