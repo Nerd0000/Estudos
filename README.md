@@ -21,11 +21,15 @@
 
 ## 🚀 Rocketseat
 
+<br>
+
 - [🎒 Starter](https://github.com/Nerd0000/Starter)
 - [🚀 Oministack](./src/omni.md)
 - [👨‍🎓 Gostack](https://github.com/Nerd0000/go-stack)
 
 ## 📚 Outros
+
+<br>
 
 - [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
 - [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
