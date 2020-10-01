@@ -1,3 +1,0 @@
-- [Ajax](https://github.com/Nerd0000/Ajax)
-- [Web](https://github.com/Nerd0000/Web)
-- [Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs) 
