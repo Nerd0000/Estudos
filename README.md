@@ -35,18 +35,18 @@
 
 <br>
 
+- [🌐 Web](./src/crud.md)
+- [💡 Javascript](./src/js.md)
+- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+
+<br>
+
 - [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
 - [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
-- [💡 Javascript](./src/js.md)
 - [🐍 Python](./src/py.md)
 - [☕ Java](./src/java.md)
 - [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
 - [🔮 .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
-
-<br>
-
-- [🌐 Web](./src/crud.md)
-- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
 - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
