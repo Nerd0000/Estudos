@@ -8,3 +8,6 @@
 - [🐲 VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
 - [🔢 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
 - [💻 Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
+- [💡 Ajax](https://github.com/Nerd0000/Ajax)
+- [🌐 Web](https://github.com/Nerd0000/Web)
+- [☄ Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
