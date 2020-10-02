@@ -2,6 +2,7 @@
   - [📱 Instagram ui](https://github.com/Nerd0000/instagram-ui)
   - [💱 E-Commerce](https://github.com/Nerd0000/E-Commerce)
   - [🔎 Consulta de cep](https://github.com/Nerd0000/Consulta-de-Cep)
+  - [🎨 Banner Rotativo](https://github.com/Nerd0000/banner-rotativo)
   - [💻 Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
   - [💡 Ajax](https://github.com/Nerd0000/Ajax)
   - [🌐 Testes](https://github.com/Nerd0000/Web)
