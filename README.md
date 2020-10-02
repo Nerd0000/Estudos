@@ -19,33 +19,25 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
 </p>
 
-<br>
+- Rocketseat
 
-## 🚀 Rocketseat
+    - [🎒 Starter](https://github.com/Nerd0000/Starter)
+    - [🚀 Oministack](./src/omni.md)
+    - [👨‍🎓 Gostack](https://github.com/Nerd0000/go-stack)
 
-<br>
+- Outros
 
-- [🎒 Starter](https://github.com/Nerd0000/Starter)
-- [🚀 Oministack](./src/omni.md)
-- [👨‍🎓 Gostack](https://github.com/Nerd0000/go-stack)
+    - [🌐 Web](./src/web.md)
+    - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+    - [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+    - [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 
-<br>
+- Estudos
 
-## 📚 Outros
-
-<br>
-
-- [🌐 Web](./src/web.md)
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
-- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-
-<br>
-
-- [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
-- [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
-- [🐍 Python](./src/py.md)
-- [☕ Java](./src/java.md)
-- [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
-- [🔮 .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
-- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
+    - [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
+    - [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
+    - [🐍 Python](./src/py.md)
+    - [☕ Java](./src/java.md)
+    - [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
+    - [🔮 .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
+    - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
