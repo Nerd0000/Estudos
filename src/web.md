@@ -4,7 +4,7 @@
   - [🔎 Consulta de cep](https://github.com/Nerd0000/Consulta-de-Cep)
   - [💻 Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
   - [💡 Ajax](https://github.com/Nerd0000/Ajax)
-  - [🌐 Web](https://github.com/Nerd0000/Web)
+  - [🌐 Testes](https://github.com/Nerd0000/Web)
   - [🔢 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
   - [☄ Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
 
