@@ -56,7 +56,9 @@
 
     - [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
     - [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
-    - [🐍 Python](./src/py.md)
+    - 🐍 Python
+        - [Web scraping](https://github.com/Nerd0000/webscrap-com-python)
+        - [Exercicios](https://github.com/Nerd0000/Aprendendo-python)
     - [☕ Java](./src/java.md)
     - [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
     - [🔮 .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
