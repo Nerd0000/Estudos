@@ -31,7 +31,7 @@
 
 - UI Clone
 
-    - [📱 Instagram ui](https://github.com/Nerd0000/instagram-ui)
+    - [📱 Instagram](https://github.com/Nerd0000/instagram-ui)
     
 - Outros   
 
