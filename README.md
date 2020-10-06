@@ -19,6 +19,8 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
 </p>
 
+## Web
+
 - Rocketseat
 
     - [🎒 Starter](https://github.com/Nerd0000/Starter)
@@ -27,10 +29,12 @@
     
     - [👨‍🎓 Gostack](https://github.com/Nerd0000/go-stack)
 
-- Web
+- UI Clone
 
     - [📱 Instagram ui](https://github.com/Nerd0000/instagram-ui)
     
+- Outros   
+
     - [💱 E-Commerce](https://github.com/Nerd0000/E-Commerce)
     
     - [🔎 Consulta de cep](https://github.com/Nerd0000/Consulta-de-Cep)
@@ -38,55 +42,53 @@
     - [🍎 Pêndulo de Newton](https://github.com/Nerd0000/Pendulo-de-Newton)
     
     - [🎨 Banner Rotativo](https://github.com/Nerd0000/banner-rotativo)
-    
-    - [💡 Ajax](https://github.com/Nerd0000/Ajax)
-    
-    - [🌐 Testes](https://github.com/Nerd0000/Web)
-    
-    - [🔢 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
-    
-    - [☄ Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
 
-- Sistemas de cadastro
+## Sistemas de cadastro
 
-    - [😎 ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
+- [😎 ReactJs e NodeJs robusto](https://github.com/Nerd0000/Cadastro-robusto)
     
-    - [☺ ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
+- [☺ ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
     
-    - [☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
+- [☕ ReactJs e Java simples](https://github.com/Nerd0000/Cadastro-backend-em-java)
     
-    - [👶 Angular e Java simples](https://github.com/Nerd0000/Angular-e-Java)
+- [👶 Angular e Java simples](https://github.com/Nerd0000/Angular-e-Java)
     
-    - [👴 AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
+- [👴 AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
     
-    - [💻 Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
+- [💻 Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
     
-    - [🐲 VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
+- [🐲 VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
 
-- Outros
+## Estudos
 
-    - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-    
-    - [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
-    
-    - [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+- [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
 
-- Estudos
-
-    - [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
+- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
     
-    - [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
+- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
     
-    - 🐍 Python
+- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
     
-        - [Web scraping](https://github.com/Nerd0000/webscrap-com-python)
+- [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
+    
+- 🐍 Python
+    
+    - [Web scraping](https://github.com/Nerd0000/webscrap-com-python)
         
-        - [Exercicios](https://github.com/Nerd0000/Aprendendo-python)
+    - [Exercicios](https://github.com/Nerd0000/Aprendendo-python)
         
-    - [☕ Java](./src/java.md)
+- [☕ Java](./src/java.md)
     
-    - [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
+- [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
+
+- [💡 Ajax](https://github.com/Nerd0000/Ajax)
     
-    - [🔮 .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
+- [🌐 Testes](https://github.com/Nerd0000/Web)
     
-    - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
+- [🔢 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
+    
+- [☄ Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
+    
+- [🔮 .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
+       
+- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
