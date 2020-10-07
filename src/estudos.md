@@ -23,11 +23,5 @@
 - [💡 Ajax](https://github.com/Nerd0000/Ajax)
     
 - [🌐 Testes](https://github.com/Nerd0000/Web)
-    
-- [🔢 Calculadora](https://github.com/Nerd0000/Calculadora-ReactJs)
-    
-- [☄ Aprendendo ReactJs](https://github.com/Nerd0000/Aprendendo-ReactJs)
-    
-- [🔮 .NET e C#](https://github.com/Nerd0000/Estudando-.Net-e-CS)
        
 - [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
