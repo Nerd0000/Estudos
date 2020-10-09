@@ -4,7 +4,7 @@
 
     - [🎒 Starter](https://github.com/Nerd0000/Starter)
     
-    - [🚀 Oministack](./src/omni.md)
+    - [🚀 Oministack](./omni.md)
     
     - [👨‍🎓 Gostack](https://github.com/Nerd0000/go-stack)
 
