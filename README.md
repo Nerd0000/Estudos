@@ -28,9 +28,9 @@
 
 - [👨‍🚀 Rocketseat](./src/rocket.md)
 
-- [🐱‍💻 UI Clone](./src/ui%20clone.md)
+- [🐱‍💻 Clones de Interface](./src/ui%20clone.md)
 
-- [👥 Cadastro](./src/crud.md)
+- [👥 Cadastros](./src/crud.md)
 
 - [🐱‍👤 Outros](./src/outros.md)
 
@@ -51,9 +51,3 @@
 - [☕ Java](./src/java.md)
     
 - [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
-
-- [💡 Ajax](https://github.com/Nerd0000/Ajax)
-    
-- [🌐 Testes](https://github.com/Nerd0000/Web)
-       
-- [💻 Lógica de programação](https://github.com/Nerd0000/Logica-com-Portugol)
