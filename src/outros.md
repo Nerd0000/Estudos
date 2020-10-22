@@ -7,3 +7,5 @@
 - [🍎 Pêndulo de Newton](https://github.com/Nerd0000/Pendulo-de-Newton)
     
 - [🎨 Banner Rotativo](https://github.com/Nerd0000/banner-rotativo)
+
+- [💡 Ajax](https://github.com/Nerd0000/Ajax)
