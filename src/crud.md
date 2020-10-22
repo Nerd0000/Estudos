@@ -11,5 +11,3 @@
 - [👴 AngularJs e Java simples](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
     
 - [💻 Java desktop simples](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
-    
-- [🐲 VueJs e Java simples](https://github.com/Nerd0000/Cadastro-em-Vue)
