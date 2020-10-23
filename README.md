@@ -34,7 +34,35 @@
 
 - [🐱‍👤 Outros](./src/outros.md)
 
-## Estudos
+## Linguagem C
+
+- [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-C/tree/master/Exerc%C3%ADcios)
+
+- [🛠 Extras](https://github.com/Nerd0000/Estudos-em-C/tree/master/Extras)
+
+- [📕 Teoria](https://github.com/jpaulohe4rt/c4noobs)
+
+## Python
+
+- [🔨 Exercícios](https://github.com/Nerd0000/Aprendendo-python/tree/master/Exercicios)
+
+- [📶 Port Scanner](https://github.com/Nerd0000/Aprendendo-python/blob/master/Port%20scan/main.py)
+
+- [👾 Web Scraping](https://github.com/Nerd0000/Aprendendo-python/blob/master/Web%20scraping/main.py)
+
+## Java
+
+- [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-Java)
+
+- [💻 Desktop](https://github.com/Nerd0000/Java-desktop)
+
+- [🗃 Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
+
+- [🖱 Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
+
+- [🎒 Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
+
+## Outros
 
 - [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
 
@@ -43,11 +71,3 @@
 - [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
     
 - [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-    
-- [⛏ C](https://github.com/Nerd0000/Estudos-em-C)
-    
-- [🐍 Python](https://github.com/Nerd0000/Aprendendo-python)
-
-- [☕ Java](./src/java.md)
-    
-- [🛡️ Angular](https://github.com/Nerd0000/Listagem-cursos)
