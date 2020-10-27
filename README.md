@@ -31,10 +31,6 @@
 
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
     
-- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
-    
-- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-
 ## Web
 
 - [👨‍🚀 Rocketseat](./src/rocket.md)
@@ -44,6 +40,10 @@
 - [👥 Cadastros](./src/crud.md)
 
 - [🐱‍👤 Outros](./src/outros.md)
+
+- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+    
+- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 
 ## Linguagem C
 
