@@ -25,7 +25,7 @@
 
 ## Geral
 
-- [🐙 Contribuições no github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
+- [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
 
 - [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
 
