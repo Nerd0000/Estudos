@@ -8,7 +8,7 @@
 <!-- Subtitulo -->
 
 <h4 align="center">
-  Meus repositórios do github organizados por categoria, para uma navegação mais fácil.
+  Meu github organizado por categorias, para uma navegação mais fácil.
 </h4>
 
 <!-- Github Badges -->
@@ -18,11 +18,22 @@
     <img alt="Feito por Alan" src="https://img.shields.io/badge/made%20by-Alan-8743CC">
   </a>
   <img alt="Último Commit" src="https://img.shields.io/github/last-commit/Nerd0000/Meus-Projetos">
-  <img alt="Contribuidores" src="https://img.shields.io/github/contributors/Nerd0000/Meus-Projetos">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
 </p>
 
 <!-- Categorias -->
+
+## Geral
+
+- [🐙 Contribuições no github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
+
+- [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
+
+- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+    
+- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+    
+- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 
 ## Web
 
@@ -61,13 +72,3 @@
 - [🖱 Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
 
 - [🎒 Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
-
-## Outros
-
-- [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
-
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-    
-- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
-    
-- [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
