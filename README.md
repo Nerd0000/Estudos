@@ -1,7 +1,7 @@
 <!-- Titulo -->
 
 <h1 align="center">
-    < 📖 > <br>
+    < 🐙 > <br>
     Meus Projetos
 </h1>
   
