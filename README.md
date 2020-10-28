@@ -29,9 +29,9 @@
 
 - [👥 Cadastros](./src/crud.md)
 
-- [🐱‍👤 Outros](./src/outros.md)
-    
 - [🎮 Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
+
+- [🐱‍👤 Outros](./src/outros.md)
 
 ## Linguagem C
 
