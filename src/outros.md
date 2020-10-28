@@ -20,6 +20,6 @@
 
 ## Componentes
 
-- [Banner Rotativo](https://github.com/Nerd0000/banner-rotativo)
+- [🖼 Banner Rotativo](https://github.com/Nerd0000/banner-rotativo)
 
-- [Menu Superior](https://github.com/Nerd0000/menu-superior)
+- [🔝 Menu Superior](https://github.com/Nerd0000/menu-superior)
