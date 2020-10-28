@@ -27,8 +27,6 @@
 
 - [👨‍🚀 Rocketseat](./src/rocket.md)
 
-- [🐱‍💻 Clones de Interface](./src/ui%20clone.md)
-
 - [👥 Cadastros](./src/crud.md)
 
 - [🐱‍👤 Outros](./src/outros.md)
