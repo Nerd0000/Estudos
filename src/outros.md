@@ -25,9 +25,3 @@
 - [🍎 Pêndulo de Newton](https://github.com/Nerd0000/Pendulo-de-Newton)
 
 - [🖌 Cor de fundo](https://github.com/Nerd0000/Cor-de-fundo)
-
-## Componentes
-
-- [🖼 Banner Rotativo](https://github.com/Nerd0000/banner-rotativo)
-
-- [🔝 Menu Superior](https://github.com/Nerd0000/menu-superior)
