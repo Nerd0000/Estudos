@@ -33,8 +33,6 @@
 
 - [🐱‍👤 Outros](./src/outros.md)
 
-- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
-
 ## Linguagem C
 
 - [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-C/tree/master/Exerc%C3%ADcios)
