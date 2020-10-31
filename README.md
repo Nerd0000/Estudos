@@ -65,7 +65,9 @@
 
 - [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
 
-- [🏆 Programação Competitiva](https://github.com/Nerd0000/programacao-competitiva)
+- [📜 Links de tecnologia](https://github.com/Nerd0000/Links-de-tecnologia)
+
+- [👨‍🏫 Anotações de estudo](https://github.com/Nerd0000/anotacoes-de-estudo)
 
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
 
