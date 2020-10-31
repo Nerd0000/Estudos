@@ -33,6 +33,8 @@
 
 - [🐱‍👤 Outros](./src/outros.md)
 
+- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+
 ## Linguagem C
 
 - [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-C/tree/master/Exerc%C3%ADcios)
@@ -70,5 +72,3 @@
 - [👨‍🏫 Anotações de estudo](https://github.com/Nerd0000/anotacoes-de-estudo)
 
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-
-- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
