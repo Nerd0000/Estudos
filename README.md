@@ -35,11 +35,9 @@
 
 ## Linguagem C
 
-- [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-C/tree/master/Exerc%C3%ADcios)
-
-- [🛠 Extras](https://github.com/Nerd0000/Estudos-em-C/tree/master/Extras)
-
 - [📕 Teoria](https://github.com/jpaulohe4rt/c4noobs)
+
+- [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-C)
 
 ## Python
 
