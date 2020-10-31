@@ -12,6 +12,8 @@
 
 - [⌚ Relógio](https://github.com/Nerd0000/Relogio)
 
+- [🐀 Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+
 - [💡 Ajax](https://github.com/Nerd0000/Ajax)
 
 - [🖊 Anotações](https://github.com/Nerd0000/Anotacoes)
