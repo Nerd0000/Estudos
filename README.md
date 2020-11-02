@@ -33,12 +33,6 @@
 
 - [🐱‍👤 Outros](./src/outros.md)
 
-## Linguagem C
-
-- [📕 Teoria](https://github.com/jpaulohe4rt/c4noobs)
-
-- [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-C)
-
 ## Python
 
 - [🔨 Exercícios](https://github.com/Nerd0000/Aprendendo-python/tree/master/Exercicios)
@@ -61,8 +55,13 @@
 
 ## Outros
 
-- [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
+- [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 
 - [🏆 Uri Online Judge](https://github.com/Nerd0000/uri-online-judge)
 
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+
+- [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
+
+- [📜 Links de tecnologia](https://github.com/Nerd0000/uri-online-judge)
+
