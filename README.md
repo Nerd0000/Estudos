@@ -65,6 +65,6 @@
 
 - [📜 Links de tecnologia](https://github.com/Nerd0000/Links-de-tecnologia)
 
-- [👨‍🏫 Anotações de estudo](https://github.com/Nerd0000/anotacoes-de-estudo)
+- [🏆 Uri Online Judge](https://github.com/Nerd0000/uri-online-judge)
 
 - [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
