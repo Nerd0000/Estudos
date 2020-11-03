@@ -59,4 +59,4 @@
 
 - [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
 
-- [📜 Links de tecnologia](https://github.com/Nerd0000/uri-online-judge)
+- [📜 Links de tecnologia](https://github.com/Nerd0000/links-de-tecnologia)
