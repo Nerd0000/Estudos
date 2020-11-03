@@ -33,6 +33,18 @@
 
 - [🐱‍👤 Outros](./src/outros.md)
 
+## Java
+
+- [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-Java)
+
+- [💻 Desktop](https://github.com/Nerd0000/Java-desktop)
+
+- [🗃 Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
+
+- [🖱 Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
+
+- [🎒 Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
+
 ## Diversos
 
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
@@ -48,15 +60,3 @@
 - [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
 
 - [📜 Links de tecnologia](https://github.com/Nerd0000/uri-online-judge)
-
-## Java
-
-- [🔨 Exercícios](https://github.com/Nerd0000/Estudos-em-Java)
-
-- [💻 Desktop](https://github.com/Nerd0000/Java-desktop)
-
-- [🗃 Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
-
-- [🖱 Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
-
-- [🎒 Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
