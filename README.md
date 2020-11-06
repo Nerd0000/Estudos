@@ -45,16 +45,14 @@
 
 ## Diversos
 
+- [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
+
+- [📜 Links de tecnologia](https://github.com/Nerd0000/links-de-tecnologia)
+
 - [⛏ Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 
 - [🐍 Estudos em python](https://github.com/Nerd0000/Aprendendo-python)
 
+- [🤖 Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+
 - [🏆 Uri Online Judge](https://github.com/Nerd0000/uri-online-judge)
-
-- [🔩 Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-
-<hr>
-
-- [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
-
-- [📜 Links de tecnologia](https://github.com/Nerd0000/links-de-tecnologia)
