@@ -43,7 +43,7 @@
 
 - [🌿 Spring boot](https://github.com/Nerd0000/Spring-boot)
 
-## Diversos
+## Outros
 
 - [🐙 Contribuições no Github](https://github.com/pulls?page=1&q=is%3Apr+author%3ANerd0000+archived%3Afalse+is%3Aclosed)
 
