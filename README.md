@@ -41,9 +41,7 @@
 
 - [🗃 Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
 
-- [🖱 Ferramenta ORM](https://github.com/Nerd0000/Ferramenta-ORM)
-
-- [🎒 Aprendendo java e spring](https://github.com/Nerd0000/Aprendendo-Java-e-Spring)
+- [🌿 Spring boot](https://github.com/Nerd0000/Spring-boot)
 
 ## Diversos
 
