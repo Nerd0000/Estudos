@@ -54,5 +54,3 @@
 - [🐍 Estudos em python](https://github.com/Nerd0000/Aprendendo-python)
 
 - [🤖 Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-
-- [🏆 Uri Online Judge](https://github.com/Nerd0000/uri-online-judge)
