@@ -23,7 +23,7 @@
 
 <!-- Categorias -->
 
-## 🌐 Web
+🌐 Web
 
   - [E-Commerce](https://github.com/Nerd0000/E-Commerce)
   - [Consulta de cep](https://github.com/Nerd0000/Consulta-de-Cep)
@@ -38,7 +38,7 @@
   - [Ajax](https://github.com/Nerd0000/Ajax)
   - [Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 
-## 👥 Cadastros
+👥 Cadastros
 
   - [ReactJs e NodeJs completo](https://github.com/Nerd0000/Cadastro-robusto)
   - [ReactJs e NodeJs simples](https://github.com/Nerd0000/Cadastro-simples)
@@ -48,7 +48,7 @@
   - [AngularJs e Java](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
   - [Java Desktop](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
-## 👨🏽‍🚀 Rocketseat
+👨🏽‍🚀 Rocketseat
 
   - [Starter](https://github.com/Nerd0000/Starter)
 
@@ -60,14 +60,14 @@
 
     - [Be the hero - Oministack #11](https://github.com/Nerd0000/Be-the-hero)
 
-## ☕ Java
+☕ Java
 
   - [Exercícios](https://github.com/Nerd0000/Estudos-em-Java)
   - [Desktop](https://github.com/Nerd0000/Java-desktop)
   - [Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
   - [Spring boot](https://github.com/Nerd0000/Spring-boot)
 
-## 🛠️ Outros
+🛠️ Outros
 
   - [Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
   - [Estudos em python](https://github.com/Nerd0000/Aprendendo-python)
