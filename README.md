@@ -1,28 +1,3 @@
-<!-- Titulo -->
-
-<h1 align="center">
-    < 🐙 > <br>
-    Meus Projetos
-</h1>
-  
-<!-- Subtitulo -->
-
-<h4 align="center">
-  Meu github organizado por categorias, para uma navegação mais fácil.
-</h4>
-
-<!-- Github Badges -->
-
-<p align="center">
-  <a href="https://github.com/nerd0000">
-    <img alt="Feito por Alan" src="https://img.shields.io/badge/made%20by-Alan-8743CC">
-  </a>
-  <img alt="Último Commit" src="https://img.shields.io/github/last-commit/Nerd0000/Meus-Projetos">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Meus-Projetos.svg">
-</p>
-
-<!-- Categorias -->
-
 ## 🌐 Web
 
   - [E-Commerce](https://github.com/Nerd0000/E-Commerce)
