@@ -34,7 +34,6 @@
   - [Floco de neve](https://github.com/Nerd0000/Floco-de-neve)
   - [Pêndulo de Newton](https://github.com/Nerd0000/Pendulo-de-Newton)
   - [Cor de fundo](https://github.com/Nerd0000/Cor-de-fundo)
-  - [Bot discord](https://github.com/Nerd0000/Player-discord-bot)
   - [Ajax](https://github.com/Nerd0000/Ajax)
   - [Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
 
@@ -48,17 +47,10 @@
   - [AngularJs e Java](https://github.com/Nerd0000/Cadastro-frontend-em-angularjs)
   - [Java Desktop](https://github.com/Nerd0000/Sistema-de-cadastro-desktop-em-Java)
 
-## 👨🏽‍🚀 Rocketseat
+## 👨🏽‍🚀 Oministack
 
-  - [Starter](https://github.com/Nerd0000/Starter)
-
-  - [Gostack](https://github.com/Nerd0000/go-stack)
-
-  - Oministack
-
-    - [Happy - Next Level Week #3](https://github.com/Nerd0000/happy)
-
-    - [Be the hero - Oministack #11](https://github.com/Nerd0000/Be-the-hero)
+   - [Happy - Next Level Week #3](https://github.com/Nerd0000/happy)
+   - [Be the hero - Oministack #11](https://github.com/Nerd0000/Be-the-hero)
 
 ## ☕ Java
 
@@ -72,3 +64,4 @@
   - [Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
   - [Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
   - [Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+  - [Bot discord](https://github.com/Nerd0000/Player-discord-bot)
