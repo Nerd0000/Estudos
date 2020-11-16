@@ -1,8 +1,12 @@
 ## 🎃 Páginas Web
-- [E-Commerce](https://github.com/Nerd0000/E-Commerce)
-- [Consulta de cep](https://github.com/Nerd0000/Consulta-de-Cep)
-- [Instagram](https://github.com/Nerd0000/instagram-ui)
-- [Youtube](https://github.com/Nerd0000/Youtube-clone)
+
+[E-Commerce](https://github.com/Nerd0000/E-Commerce)
+
+[Consulta de cep](https://github.com/Nerd0000/Consulta-de-Cep)
+
+[Instagram](https://github.com/Nerd0000/instagram-ui)
+
+[Youtube](https://github.com/Nerd0000/Youtube-clone)
 
 ## 👥 Cadastros
 - [ReactJs e NodeJs completo](https://github.com/Nerd0000/Cadastro-robusto)
