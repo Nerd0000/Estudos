@@ -32,11 +32,13 @@
 
 ## 🌐 Html, Css e Js
 
-[Floco de neve](https://github.com/Nerd0000/Floco-de-neve)
+[Calculadora](https://github.com/Nerd0000/Calculadora)
+
+[Relógio](https://github.com/Nerd0000/Relogio)
 
 [Pêndulo de Newton](https://github.com/Nerd0000/Pendulo-de-Newton)
 
-[Relógio](https://github.com/Nerd0000/Relogio)
+[Floco de neve](https://github.com/Nerd0000/Floco-de-neve)
 
 [Cor de fundo](https://github.com/Nerd0000/Cor-de-fundo)
 
