@@ -8,6 +8,20 @@
 
 [Youtube](https://github.com/Nerd0000/Youtube-clone)
 
+[Calculadora](https://github.com/Nerd0000/Calculadora)
+
+[Relógio](https://github.com/Nerd0000/Relogio)
+
+[Pêndulo de Newton](https://github.com/Nerd0000/Pendulo-de-Newton)
+
+[Floco de neve](https://github.com/Nerd0000/Floco-de-neve)
+
+[Cor de fundo](https://github.com/Nerd0000/Cor-de-fundo)
+
+[Ajax](https://github.com/Nerd0000/Ajax)
+
+[Anotações](https://github.com/Nerd0000/Anotacoes)
+
 ## 👥 Cadastros
 
 [ReactJs e NodeJs completo](https://github.com/Nerd0000/Cadastro-robusto)
@@ -30,25 +44,6 @@
 
 [Be the hero - Oministack #11](https://github.com/Nerd0000/Be-the-hero)
 
-## 🌐 Html, Css e Js
-
-[Calculadora](https://github.com/Nerd0000/Calculadora)
-
-[Relógio](https://github.com/Nerd0000/Relogio)
-
-[Pêndulo de Newton](https://github.com/Nerd0000/Pendulo-de-Newton)
-
-[Floco de neve](https://github.com/Nerd0000/Floco-de-neve)
-
-[Cor de fundo](https://github.com/Nerd0000/Cor-de-fundo)
-
-[Anotações](https://github.com/Nerd0000/Anotacoes)
-
-[Ajax](https://github.com/Nerd0000/Ajax)
-
-[Jogos](https://github.com/Nerd0000/Desenvolvimento-de-jogos)
-
-[Bot discord](https://github.com/Nerd0000/Player-discord-bot)
 
 ## ☕ Java
 
@@ -62,8 +57,13 @@
 
 ## 🛠️ Outros
 
+[Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+
 [Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
 
 [Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
 
 [Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
+
+[Desenvolvimento de jogos](https://github.com/Nerd00F/Desenvolvimento-de-jogos)
+
