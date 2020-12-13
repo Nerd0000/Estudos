@@ -98,7 +98,7 @@
 
   [Bot discord](https://github.com/Nerd0000/Player-discord-bot)
 
-  [Estudos em C](https://github.com/Nerd0000/Estudos-em-C)
+  [Estudos em C, C++](https://github.com/Nerd0000/Estudos-em-C)
 
   [Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
 
