@@ -8,10 +8,6 @@
 
   [Consulta de cep](https://github.com/Nerd0000/Consulta-de-Cep)
 
-  [Instagram](https://github.com/Nerd0000/instagram-ui)
-
-  [Youtube](https://github.com/Nerd0000/Youtube-clone)
-
   [Calculadora](https://github.com/Nerd0000/Calculadora)
 
   [Relógio](https://github.com/Nerd0000/Relogio)
@@ -28,6 +24,20 @@
 
   [Anotações](https://github.com/Nerd0000/Anotacoes)
   
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>👨‍🔬  Clones de interface</summary>
+
+  <br>
+
+  [Instagram](https://github.com/Nerd0000/instagram-ui)
+
+  [Youtube](https://github.com/Nerd0000/Youtube-clone)
+
 </details>
 
 <!--------------------------------------------------------------->
