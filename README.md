@@ -3,6 +3,8 @@
   <summary>🎃 Páginas Web</summary>
 
   <br>
+  
+  [Meu site pessoal](https://github.com/Nerd00F/Nerd00F.github.io)
 
   [E-Commerce](https://github.com/Nerd0000/E-Commerce)
 
