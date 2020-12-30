@@ -108,8 +108,6 @@
 
   <br>
 
-  [Arquivo](https://github.com/Nerd00F/Arquivo)
-
   [Bot discord](https://github.com/Nerd0000/Player-discord-bot)
 
   [Estudos em C, C++](https://github.com/Nerd0000/Estudos-em-C)
@@ -117,8 +115,6 @@
   [Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
 
   [Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
-
-  [Desenvolvimento de jogos](https://github.com/Nerd00F/Desenvolvimento-de-jogos)
 
 </details>
 
