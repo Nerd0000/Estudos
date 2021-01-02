@@ -86,15 +86,12 @@
   <summary>☕ Java</summary>
 
   <br>
-
-  [Exercícios](https://github.com/Nerd0000/Estudos-em-Java)
+  
+  [Spring boot](https://github.com/Nerd0000/Spring-boot)
 
   [Desktop](https://github.com/Nerd0000/Java-desktop)
 
   [Banco de dados H2](https://github.com/Nerd0000/Banco-de-dados-Java)
-
-  [Spring boot](https://github.com/Nerd0000/Spring-boot)
-
 
 </details>
 
@@ -106,12 +103,10 @@
 
   <br>
 
+  [Estudos (C, C++, Java e Python)](https://github.com/Nerd0000/Estudos)
+
   [Bot discord](https://github.com/Nerd0000/Player-discord-bot)
-
-  [Estudos em C, C++](https://github.com/Nerd0000/Estudos-em-C)
-
-  [Estudos em Python](https://github.com/Nerd0000/Aprendendo-python)
-
+  
   [Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
 
   [Desenvolvimento de jogos](https://github.com/Nerd00F/Desenvolvimento-de-jogos)
