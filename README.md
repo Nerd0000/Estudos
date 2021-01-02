@@ -23,8 +23,6 @@
   [Grid Layout](https://github.com/Nerd00F/grid-layout)
 
   [Ajax](https://github.com/Nerd0000/Ajax)
-
-  [Anotações](https://github.com/Nerd0000/Anotacoes)
   
 </details>
 
