@@ -103,9 +103,9 @@
 
   <br>
 
-  [Estudos (C, C++, Java e Python)](https://github.com/Nerd0000/Estudos)
+  [Estudos (C, C++, Java e Python)](https://github.com/Nerd00F/Estudos)
 
-  [Bot discord](https://github.com/Nerd0000/Player-discord-bot)
+  [Bot discord](https://github.com/Nerd00F/Player-discord-bot)
   
   [Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
 
