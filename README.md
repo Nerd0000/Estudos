@@ -116,6 +116,8 @@
 
   [Projetos em Arduino](https://www.tinkercad.com/users/7kbRcmKM7hu-nerd0000?category=circuits&sort=likes&view_mode=default)
 
+  [Desenvolvimento de jogos](https://github.com/Nerd00F/Desenvolvimento-de-jogos)
+
 </details>
 
 <!--------------------------------------------------------------->
