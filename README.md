@@ -8,17 +8,9 @@
 
   [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
 
-  [ReactJs e NodeJs completo](https://github.com/Nerd00F/Cadastro-robusto)
-
-  [ReactJs e NodeJs simples](https://github.com/Nerd00F/Cadastro-simples)
-
-  [ReactJs e Java](https://github.com/Nerd00F/Cadastro-backend-em-java)
-
-  [Angular Puro](https://github.com/Nerd00F/Listagem-cursos)
-
-  [Angular e Java](https://github.com/Nerd00F/Angular-e-Java)
-
-  [AngularJs e Java](https://github.com/Nerd00F/Cadastro-frontend-em-angularjs)
+  [Dsdelivery - Semana Dev Superior](https://github.com/Nerd00F/dsdelivery)
+  
+  [Cadastro Empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 
   [Java Desktop](https://github.com/Nerd00F/Sistema-de-cadastro-desktop-em-Java)
 
@@ -78,9 +70,7 @@
   <summary>☕ Java</summary>
 
   <br>
-  
-  [Dsdelivery](https://github.com/Nerd00F/dsdelivery)
-  
+    
   [Spring boot](https://github.com/Nerd00F/Spring-boot)
 
   [Banco de dados H2](https://github.com/Nerd00F/Banco-de-dados-Java)
