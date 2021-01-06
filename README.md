@@ -1,54 +1,12 @@
 <details>
   
-  <summary>🎃 Páginas Web</summary>
-
-  <br>
-  
-  [Site pessoal](https://github.com/Nerd00F/Nerd00F.github.io)
-
-  [E-Commerce](https://github.com/Nerd00F/E-Commerce)
-
-  [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
-
-  [Calculadora](https://github.com/Nerd00F/Calculadora)
-
-  [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
-
-  [Relógio](https://github.com/Nerd00F/Relogio)
-
-  [Pêndulo de Newton](https://github.com/Nerd00F/Pendulo-de-Newton)
-
-  [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
-
-  [Cor de fundo](https://github.com/Nerd00F/Cor-de-fundo)
-  
-  [Grid Layout](https://github.com/Nerd00F/grid-layout)
-
-  [Ajax](https://github.com/Nerd00F/Ajax)
-  
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
-  <summary>👨‍🔬  Clones de interface</summary>
-
-  <br>
-
-  [Instagram](https://github.com/Nerd00F/instagram-ui)
-
-  [Youtube](https://github.com/Nerd00F/Youtube-clone)
-
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
   <summary>👥 Cadastros</summary>
 
   <br>
+
+  [Happy - Next Level Week #3](https://github.com/Nerd00F/happy)
+
+  [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
 
   [ReactJs e NodeJs completo](https://github.com/Nerd00F/Cadastro-robusto)
 
@@ -70,15 +28,43 @@
 
 <details>
   
-  <summary>👨🏽‍🚀 Oministack</summary>
+  <summary>👨‍🔬 Web</summary>
+  
+  [Site pessoal](https://github.com/Nerd00F/Nerd00F.github.io)
+    
+  [Instagram Clone](https://github.com/Nerd00F/instagram-ui)
 
-  <br>
+  [Youtube Clone](https://github.com/Nerd00F/Youtube-clone)
 
-  [Happy - Next Level Week #3](https://github.com/Nerd00F/happy)
+  [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
 
-  [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
+  [Calculadora](https://github.com/Nerd00F/Calculadora)
 
+  [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
 
+  [Relógio](https://github.com/Nerd00F/Relogio)
+  
+  [E-Commerce](https://github.com/Nerd00F/E-Commerce)
+ 
+  [Ajax](https://github.com/Nerd00F/Ajax)
+  
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>🎨 Css</summary>
+
+  [Pêndulo de Newton](https://github.com/Nerd00F/Pendulo-de-Newton)
+
+  [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
+
+  [Cor de fundo](https://github.com/Nerd00F/Cor-de-fundo)
+  
+  [Grid Layout](https://github.com/Nerd00F/grid-layout)
+
+  
 </details>
 
 <!--------------------------------------------------------------->
