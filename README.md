@@ -30,6 +30,8 @@
   
   <summary>👨‍🔬 Web</summary>
   
+  <br>
+  
   [Site pessoal](https://github.com/Nerd00F/Nerd00F.github.io)
     
   [Instagram Clone](https://github.com/Nerd00F/instagram-ui)
@@ -55,6 +57,8 @@
 <details>
   
   <summary>🎨 Css</summary>
+  
+  <br>
 
   [Pêndulo de Newton](https://github.com/Nerd00F/Pendulo-de-Newton)
 
