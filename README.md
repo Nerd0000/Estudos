@@ -4,11 +4,7 @@
 
   <br>
 
-  [Happy - Next Level Week #3](https://github.com/Nerd00F/happy)
-
   [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
-
-  [Dsdelivery - Semana Dev Superior](https://github.com/Nerd00F/dsdelivery)
   
   [Listagem de Cursos](https://github.com/Nerd00F/Listagem-cursos)
   
