@@ -54,6 +54,8 @@
 
   [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
 
+  [Animação simples](https://github.com/Nerd00F/sample-animation)
+
   [Coração](https://github.com/Nerd00F/heart)
 
   [Cor de fundo](https://github.com/Nerd00F/Cor-de-fundo)
