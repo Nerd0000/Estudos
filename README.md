@@ -37,10 +37,6 @@
   [Youtube Clone](https://github.com/Nerd00F/Youtube-clone)
   
   [Relógio](https://github.com/Nerd00F/Relogio)
-
-  [Ajax](https://github.com/Nerd00F/Ajax)
-  
-  [Questionario](https://github.com/Nerd00F/html-formated)
   
 </details>
 
