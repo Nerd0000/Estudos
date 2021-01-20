@@ -26,10 +26,6 @@
 
   [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
   
-  [Lista de tarefas](https://github.com/Nerd00F/Lista-de-tarefas)
-
-  [Calculadora](https://github.com/Nerd00F/Calculadora)
-
   [Instagram Clone](https://github.com/Nerd00F/instagram-ui)
 
   [Youtube Clone](https://github.com/Nerd00F/Youtube-clone)
