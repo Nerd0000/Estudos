@@ -1,3 +1,5 @@
+<!--------------------------------------------------------------->
+
 <details>
   
   <summary>👥 Cadastros</summary>
@@ -11,6 +13,22 @@
   [Cadastro Empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 
   [Java Desktop](https://github.com/Nerd00F/Sistema-de-cadastro-desktop-em-Java)
+
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>🏋️ Code Camp</summary>
+
+  <br>
+  
+  [Product Landing Page](https://github.com/Nerd00F/Product-Landing-Pg)
+    
+  [Survey Form](https://github.com/Nerd00F/Survey-form)
+  
+  [Tribute Page](https://github.com/Nerd00F/Tribute-page)
 
 </details>
 
@@ -79,21 +97,6 @@
 
 <!--------------------------------------------------------------->
 
-<details>
-  
-  <summary>🏋️ Code Camp</summary>
-
-  <br>
-  
-  [Product Landing Page](https://github.com/Nerd00F/Product-Landing-Pg)
-    
-  [Tribute Page](https://github.com/Nerd00F/Tribute-page)
-  
-  [Survey Form](https://github.com/Nerd00F/Survey-form)
-
-</details>
-
-<!--------------------------------------------------------------->
 <details>
   
   <summary>🛠️ Outros</summary>
