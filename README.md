@@ -32,17 +32,14 @@
 
   [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
   
+  [Flip card](https://github.com/Nerd00F/flip-card)
+  
   [Coração](https://github.com/Nerd00F/heart)
 
   [Bolas quicando](https://github.com/Nerd00F/quicking)
 
   [Animação simples](https://github.com/Nerd00F/sample-animation)
 
-  [Grid Layout](https://github.com/Nerd00F/grid-layout)
-  
-  [Cor de fundo](https://github.com/Nerd00F/Cor-de-fundo)
-
-  
 </details>
 
 <!--------------------------------------------------------------->
