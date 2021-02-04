@@ -2,42 +2,6 @@
 
 <details>
   
-  <summary>👥 Cadastros</summary>
-
-  <br>
-
-  [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
-  
-  [Listagem de Cursos](https://github.com/Nerd00F/Listagem-cursos)
-  
-  [Cadastro Empresarial](https://github.com/Nerd00F/Cadastro-robusto)
-
-  [Java Desktop](https://github.com/Nerd00F/Sistema-de-cadastro-desktop-em-Java)
-
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
-  <summary>🏋️ Code Camp</summary>
-
-  <br>
-    
-  [Technical Documentation Page](https://github.com/Nerd00F/Technical-Documentation-Page)
-  
-  [Product Landing Page](https://github.com/Nerd00F/Product-Landing-Pg)
-    
-  [Survey Form](https://github.com/Nerd00F/Survey-form)
-  
-  [Tribute Page](https://github.com/Nerd00F/Tribute-page)
-
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
   <summary>👨‍🔬 Web</summary>
   
   <br>
@@ -110,6 +74,42 @@
   [Bot discord](https://github.com/Nerd00F/Player-discord-bot)
   
   [Desenvolvimento de jogos](https://github.com/Nerd00F/Desenvolvimento-de-jogos)
+
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>👥 Cadastros</summary>
+
+  <br>
+
+  [Be the hero - Oministack #11](https://github.com/Nerd00F/Be-the-hero)
+  
+  [Listagem de Cursos](https://github.com/Nerd00F/Listagem-cursos)
+  
+  [Cadastro Empresarial](https://github.com/Nerd00F/Cadastro-robusto)
+
+  [Java Desktop](https://github.com/Nerd00F/Sistema-de-cadastro-desktop-em-Java)
+
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>🏋️ Code Camp</summary>
+
+  <br>
+    
+  [Technical Documentation Page](https://github.com/Nerd00F/Technical-Documentation-Page)
+  
+  [Product Landing Page](https://github.com/Nerd00F/Product-Landing-Pg)
+    
+  [Survey Form](https://github.com/Nerd00F/Survey-form)
+  
+  [Tribute Page](https://github.com/Nerd00F/Tribute-page)
 
 </details>
 
