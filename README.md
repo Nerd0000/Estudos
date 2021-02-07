@@ -6,8 +6,6 @@
   
   <br>
   
-  [Site pessoal](https://github.com/Nerd00F/Nerd00F.github.io)
-
   [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
   
   [Instagram Clone](https://github.com/Nerd00F/instagram-ui)
