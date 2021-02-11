@@ -16,7 +16,7 @@
 
 <details>
   
-  <summary>🦸‍♂️ Web</summary>
+  <summary>🌐 Web</summary>
   
   <br>
 
