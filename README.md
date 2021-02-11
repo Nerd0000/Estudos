@@ -2,23 +2,33 @@
 
 <details>
   
-  <summary>👨‍🔬 Web</summary>
+  <summary>🦸‍♂️ Web</summary>
   
   <br>
-  
-  [Instagram Clone](https://github.com/Nerd00F/instagram-ui)
-
-  [Youtube Clone](https://github.com/Nerd00F/Youtube-clone)
 
   [Exemplo de portfólio](https://github.com/Nerd00F/Personal-Portfolio-Webpage)
     
-  [Exemplo de documentação](https://github.com/Nerd00F/Technical-Documentation-Page)
+  [Página de documentação](https://github.com/Nerd00F/Technical-Documentation-Page)
   
   [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
   
   [E-Commerce](https://github.com/Nerd00F/E-Commerce)
   
   [Relógio](https://github.com/Nerd00F/Relogio)
+  
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>👨‍🔬 Ui clone</summary>
+  
+  <br>
+  
+  [Instagram](https://github.com/Nerd00F/instagram-ui)
+
+  [Youtube](https://github.com/Nerd00F/Youtube-clone)
   
 </details>
 
