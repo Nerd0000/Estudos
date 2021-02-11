@@ -80,7 +80,7 @@
 
   [Estudos (C, C++, Java e Python)](https://github.com/Nerd00F/Estudos)
   
-  [Uri online judge](https://github.com/Nerd00F/uri-online-judge)
+  [Uri online judge](https://www.urionlinejudge.com.br/judge/pt/profile/234840)
 
   [Projetos em arduino](https://github.com/Nerd00F/Projetos-em-arduino)
   
