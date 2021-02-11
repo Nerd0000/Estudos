@@ -2,6 +2,20 @@
 
 <details>
   
+  <summary>👨‍🔬 Ui clone</summary>
+  
+  <br>
+  
+  [Instagram](https://github.com/Nerd00F/instagram-ui)
+
+  [Youtube](https://github.com/Nerd00F/Youtube-clone)
+  
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
   <summary>🦸‍♂️ Web</summary>
   
   <br>
@@ -15,20 +29,6 @@
   [E-Commerce](https://github.com/Nerd00F/E-Commerce)
   
   [Relógio](https://github.com/Nerd00F/Relogio)
-  
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
-  <summary>👨‍🔬 Ui clone</summary>
-  
-  <br>
-  
-  [Instagram](https://github.com/Nerd00F/instagram-ui)
-
-  [Youtube](https://github.com/Nerd00F/Youtube-clone)
   
 </details>
 
