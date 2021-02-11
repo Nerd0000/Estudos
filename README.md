@@ -6,11 +6,15 @@
   
   <br>
   
-  [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
-  
   [Instagram Clone](https://github.com/Nerd00F/instagram-ui)
 
   [Youtube Clone](https://github.com/Nerd00F/Youtube-clone)
+
+  [Exemplo de portfólio](https://github.com/Nerd00F/Personal-Portfolio-Webpage)
+    
+  [Exemplo de documentação](https://github.com/Nerd00F/Technical-Documentation-Page)
+  
+  [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
   
   [E-Commerce](https://github.com/Nerd00F/E-Commerce)
   
@@ -89,26 +93,6 @@
   [Cadastro Empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 
   [Java Desktop](https://github.com/Nerd00F/Sistema-de-cadastro-desktop-em-Java)
-
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
-  <summary>🏋️ Code Camp</summary>
-
-  <br>
-  
-  [Personal Portfolio Webpage](https://github.com/Nerd00F/Personal-Portfolio-Webpage)
-    
-  [Technical Documentation Page](https://github.com/Nerd00F/Technical-Documentation-Page)
-  
-  [Product Landing Page](https://github.com/Nerd00F/Product-Landing-Pg)
-    
-  [Survey Form](https://github.com/Nerd00F/Survey-form)
-  
-  [Tribute Page](https://github.com/Nerd00F/Tribute-page)
 
 </details>
 
