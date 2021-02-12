@@ -29,28 +29,8 @@
   [E-Commerce](https://github.com/Nerd00F/E-Commerce)
   
   [Relógio](https://github.com/Nerd00F/Relogio)
-  
-</details>
 
-<!--------------------------------------------------------------->
-
-<details>
-  
-  <summary>🎨 Css</summary>
-  
-  <br>
-
-  [Pêndulo de Newton](https://github.com/Nerd00F/Pendulo-de-Newton)
-
-  [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
-  
-  [Flip card](https://github.com/Nerd00F/flip-card)
-  
-  [Coração](https://github.com/Nerd00F/heart)
-
-  [Bolas quicando](https://github.com/Nerd00F/quicking)
-
-  [Animação simples](https://github.com/Nerd00F/sample-animation)
+  [Estudos em css](https://github.com/Nerd00F/Estudos-em-css)
 
 </details>
 
