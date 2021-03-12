@@ -59,9 +59,7 @@
   <br>
 
   [Estudos (C, C++, Java e Python)](https://github.com/Nerd00F/Estudos)
-  
-  [Uri online judge](https://github.com/Nerd00F/Uri-online-judge)
-  
+    
   [Projetos em arduino](https://github.com/Nerd00F/Projetos-em-arduino)
   
   [Desenvolvimento de jogos](https://github.com/Nerd00F/Desenvolvimento-de-jogos)
