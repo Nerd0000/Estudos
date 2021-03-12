@@ -20,10 +20,6 @@
   
   <br>
 
-  [Exemplo de portfólio](https://github.com/Nerd00F/Personal-Portfolio-Webpage)
-    
-  [Página de documentação](https://github.com/Nerd00F/Technical-Documentation-Page)
-  
   [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
   
   [E-Commerce](https://github.com/Nerd00F/E-Commerce)
@@ -32,6 +28,10 @@
 
   [Estudos em css](https://github.com/Nerd00F/Estudos-em-css)
 
+  [Exemplo de portfólio](https://github.com/Nerd00F/Personal-Portfolio-Webpage)
+    
+  [Página de documentação](https://github.com/Nerd00F/Technical-Documentation-Page)
+  
 </details>
 
 <!--------------------------------------------------------------->
