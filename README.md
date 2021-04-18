@@ -38,6 +38,24 @@
 
 <details>
   
+  <summary>🎈 Css</summary>
+  
+  <br>
+
+  [Coração Batendo](https://github.com/Nerd00F/coracao)
+  
+  [Pendulo de Newton](https://github.com/Nerd00F/Pendulo-de-Newton)
+  
+  [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
+
+  [Flip card](https://github.com/Nerd00F/Flip-card)
+  
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
   <summary>☕ Java</summary>
 
   <br>
