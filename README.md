@@ -26,8 +26,6 @@
   
   [Relógio](https://github.com/Nerd00F/Relogio)
 
-  [Estudos em css](https://github.com/Nerd00F/Estudos-em-css)
-
   [Exemplo de portfólio](https://github.com/Nerd00F/Personal-Portfolio-Webpage)
     
   [Página de documentação](https://github.com/Nerd00F/Technical-Documentation-Page)
