@@ -48,9 +48,6 @@
 
   [Flip card](https://github.com/Nerd00F/Flip-card)
   
-  [Bolas quicando](https://github.com/Nerd00F/quicking)
-
-  
 </details>
 
 <!--------------------------------------------------------------->
