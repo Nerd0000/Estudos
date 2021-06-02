@@ -2,13 +2,15 @@
 
 <details>
   
-  <summary>👨‍🔬 Ui clone</summary>
+  <summary>🐇 Desafios</summary>
   
   <br>
   
-  [Instagram](https://github.com/Nerd00F/instagram-ui)
+  [Estudos (C, C++, Java e Python)](https://github.com/Nerd00F/Estudos)
 
-  [Youtube](https://github.com/Nerd00F/Youtube-clone)
+  [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
+  
+  [E-Commerce](https://github.com/Nerd00F/E-Commerce)
   
 </details>
 
@@ -16,19 +18,13 @@
 
 <details>
   
-  <summary>🌐 Web</summary>
+  <summary>👨‍🔬 Ui clone</summary>
   
   <br>
-
-  [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
   
-  [E-Commerce](https://github.com/Nerd00F/E-Commerce)
-  
-  [Relógio](https://github.com/Nerd00F/Relogio)
+  [Instagram](https://github.com/Nerd00F/instagram-ui)
 
-  [Exemplo de portfólio](https://github.com/Nerd00F/Personal-Portfolio-Webpage)
-    
-  [Página de documentação](https://github.com/Nerd00F/Technical-Documentation-Page)
+  [Youtube](https://github.com/Nerd00F/Youtube-clone)
   
 </details>
 
@@ -63,22 +59,6 @@
   [Banco de dados H2](https://github.com/Nerd00F/Banco-de-dados-Java)
   
   [Desktop](https://github.com/Nerd00F/Java-desktop)
-
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
-  <summary>🛠️ Outros</summary>
-
-  <br>
-
-  [Estudos (C, C++, Java e Python)](https://github.com/Nerd00F/Estudos)
-    
-  [Projetos em arduino](https://github.com/Nerd00F/Projetos-em-arduino)
-  
-  [Desenvolvimento de jogos](https://github.com/Nerd00F/Desenvolvimento-de-jogos)
 
 </details>
 
