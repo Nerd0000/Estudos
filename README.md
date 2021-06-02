@@ -18,20 +18,6 @@
 
 <details>
   
-  <summary>👨‍🔬 Ui clone</summary>
-  
-  <br>
-  
-  [Instagram](https://github.com/Nerd00F/instagram-ui)
-
-  [Youtube](https://github.com/Nerd00F/Youtube-clone)
-  
-</details>
-
-<!--------------------------------------------------------------->
-
-<details>
-  
   <summary>🎈 Css</summary>
   
   <br>
@@ -50,16 +36,14 @@
 
 <details>
   
-  <summary>☕ Java</summary>
-
-  <br>
-    
-  [Spring boot](https://github.com/Nerd00F/Spring-boot)
-
-  [Banco de dados H2](https://github.com/Nerd00F/Banco-de-dados-Java)
+  <summary>👨‍🔬 Ui clone</summary>
   
-  [Desktop](https://github.com/Nerd00F/Java-desktop)
+  <br>
+  
+  [Instagram](https://github.com/Nerd00F/instagram-ui)
 
+  [Youtube](https://github.com/Nerd00F/Youtube-clone)
+  
 </details>
 
 <!--------------------------------------------------------------->
@@ -77,6 +61,24 @@
   [Cadastro Empresarial](https://github.com/Nerd00F/Cadastro-robusto)
 
   [Java Desktop](https://github.com/Nerd00F/Sistema-de-cadastro-desktop-em-Java)
+
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>☕ Java</summary>
+
+  <br>
+    
+
+  [Banco de dados H2](https://github.com/Nerd00F/Banco-de-dados-Java)
+  
+  [Desktop app](https://github.com/Nerd00F/Java-desktop)
+  
+  [Hello World Spring](https://github.com/Nerd00F/Spring-boot)
+
 
 </details>
 
