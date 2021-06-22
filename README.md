@@ -6,8 +6,6 @@
   
   <br>
   
-  [Estudos (C, C++, Java e Python)](https://github.com/Nerd00F/Estudos)
-
   [Consulta de cep](https://github.com/Nerd00F/Consulta-de-Cep)
   
   [E-Commerce](https://github.com/Nerd00F/E-Commerce)
@@ -18,17 +16,11 @@
 
 <details>
   
-  <summary>🎈 Css</summary>
+  <summary>🛠 Estudos</summary>
   
   <br>
-
-  [Coração Batendo](https://github.com/Nerd00F/coracao)
   
-  [Pendulo de Newton](https://github.com/Nerd00F/Pendulo-de-Newton)
-  
-  [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
-
-  [Flip card](https://github.com/Nerd00F/Flip-card)
+  [C, C++, Java e Python](https://github.com/Nerd00F/Estudos)
   
 </details>
 
@@ -62,6 +54,24 @@
 
   [Java Desktop](https://github.com/Nerd00F/Sistema-de-cadastro-desktop-em-Java)
 
+</details>
+
+<!--------------------------------------------------------------->
+
+<details>
+  
+  <summary>🎨 Css</summary>
+  
+  <br>
+
+  [Coração Batendo](https://github.com/Nerd00F/coracao)
+  
+  [Pendulo de Newton](https://github.com/Nerd00F/Pendulo-de-Newton)
+  
+  [Floco de neve](https://github.com/Nerd00F/Floco-de-neve)
+
+  [Flip card](https://github.com/Nerd00F/Flip-card)
+  
 </details>
 
 <!--------------------------------------------------------------->
