@@ -36,7 +36,9 @@
   
   [Instagram](https://github.com/Nerd00F/instagram-ui)
 
-  [Youtube](https://github.com/Nerd00F/Youtube-clone)
+  [Youtube](https://github.com/Nerd00F/youtube-clone)
+  
+  [Spotify](https://github.com/Nerd00F/spotify-clone)
   
 </details>
 
